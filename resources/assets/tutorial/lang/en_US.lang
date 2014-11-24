@@ -1,0 +1,10 @@
+tile.lightForestGrass.name=Light Forest Grass
+tile.lightForestDirt.name=Light Forest Dirt
+tile.lightStone.name=Light Stone
+tile.lightPortal.name=Light Forest Portal
+tile.lightFire.name=Light Forest Fire
+tile.lightLog.name=Light Oak Log
+tile.lightLeaves.name=Light Leaves
+
+generator.TUTORIAL=Tut Type
+generator.TUTORIAL.info=Notice: Testing Custom World Type, Uses Mega Taiga Biome.
